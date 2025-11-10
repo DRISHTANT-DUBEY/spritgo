@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Host
+Host: https://spirigo.vercel.app
+
+# Sitemaps
+Sitemap: https://spirigo.vercel.app/sitemap.xml
