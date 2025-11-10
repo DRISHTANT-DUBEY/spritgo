@@ -8,7 +8,7 @@ export function AppHeader() {
       <div className="flex items-center gap-2">
         <Link href="/">
           <img
-            src="/logo.png"
+            src="/logo.svg"
             alt="Sprigo"
             className="h-10 w-10"
           />
