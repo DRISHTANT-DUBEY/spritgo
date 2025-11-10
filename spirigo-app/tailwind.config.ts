@@ -22,7 +22,6 @@ const config = {
         "maroon": "var(--maroon)",
         "gold": "var(--gold)",
         "background": "var(--background-light)",
-        "card": "var(--card-background)",
         "text-primary": "var(--text-primary)",
         "text-secondary": "var(--text-secondary)",
         "border-color": "var(--border-color)",
